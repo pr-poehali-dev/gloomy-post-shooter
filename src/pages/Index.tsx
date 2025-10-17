@@ -49,10 +49,7 @@ const Index = () => {
                 <br />
                 POST
               </h1>
-              <p className="text-xl text-muted-foreground">
-                Выживай в мрачном пост-апокалиптическом мире. Сражайся с врагами в стиле
-                классических 3D-шутеров 90-х.
-              </p>
+              <p className="text-xl text-muted-foreground">Сможешь ли ты выжить в лесу с дедом Юрием?</p>
               <div className="flex gap-4">
                 <Button className="pixel-text bg-primary hover:bg-primary/80 pixel-border">
                   <Icon name="Download" size={20} className="mr-2" />
