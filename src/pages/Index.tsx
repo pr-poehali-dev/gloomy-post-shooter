@@ -100,10 +100,7 @@ const Index = () => {
                 <Icon name="Map" size={32} className="text-secondary" />
                 <h3 className="pixel-text text-xl">ИССЛЕДОВАНИЕ</h3>
               </div>
-              <p className="text-muted-foreground text-lg">
-                Огромные уровни с секретами и альтернативными путями.
-                Найди все тайники с улучшениями.
-              </p>
+              <p className="text-muted-foreground text-lg">Исследуй лес и находи загвоздки</p>
             </div>
             <div className="pixel-border bg-background p-6 space-y-4">
               <div className="flex items-center gap-3">
