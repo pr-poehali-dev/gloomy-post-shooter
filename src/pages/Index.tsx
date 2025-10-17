@@ -130,7 +130,7 @@ const Index = () => {
           <h2 className="pixel-text text-3xl mb-12 text-center text-primary">
             // РАЗРАБОТЧИКИ
           </h2>
-          <div className="grid md:grid-cols-3 gap-8">
+          <div className="grid md:grid-cols-2 gap-8">
             {[
               {
                 name: "Артём Савельев",
@@ -141,11 +141,6 @@ const Index = () => {
                 name: "Иван Жуков",
                 role: "3D Artist",
                 desc: "Создаёт все модели и текстуры для игры",
-              },
-              {
-                name: "Дмитрий Тёмный",
-                role: "Game Designer",
-                desc: "Отвечает за баланс и уровни",
               },
             ].map((member, idx) => (
               <Card key={idx} className="pixel-border bg-card p-6 space-y-4">
