@@ -68,7 +68,7 @@ const Index = () => {
             <div className="relative">
               <div className="pixel-border rounded-none overflow-hidden">
                 <img
-                  src="https://cdn.poehali.dev/projects/04c4a446-befd-4b18-af39-aa0c58277cf2/files/c1d018a6-3365-49b1-90dc-ee38d0c7144a.jpg"
+                  src="https://cdn.poehali.dev/files/3be9fdbd-4595-4102-8844-10ed80aedd91.jpeg"
                   alt="GloomyPost Character"
                   className="w-full h-auto"
                   style={{ imageRendering: "pixelated" }}
