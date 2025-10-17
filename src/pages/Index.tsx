@@ -91,12 +91,9 @@ const Index = () => {
             <div className="pixel-border bg-background p-6 space-y-4">
               <div className="flex items-center gap-3">
                 <Icon name="Target" size={32} className="text-primary" />
-                <h3 className="pixel-text text-xl">ШУТЕР</h3>
+                <h3 className="pixel-text text-xl">ХОРРОР</h3>
               </div>
-              <p className="text-muted-foreground text-lg">
-                Классический 3D-шутер с видом от первого лица. Точные попадания,
-                быстрая реакция и тактическое мышление.
-              </p>
+              <p className="text-muted-foreground text-lg">Классический хоррор про русского гопника, который чудом попал в лес и далее произошло непоправимое</p>
             </div>
             <div className="pixel-border bg-background p-6 space-y-4">
               <div className="flex items-center gap-3">
