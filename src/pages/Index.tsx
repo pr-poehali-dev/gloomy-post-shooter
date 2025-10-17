@@ -104,10 +104,7 @@ const Index = () => {
                 <Icon name="Swords" size={32} className="text-primary" />
                 <h3 className="pixel-text text-xl">ОРУЖИЕ</h3>
               </div>
-              <p className="text-muted-foreground text-lg">
-                12 уникальных видов оружия - от пистолета до плазменной пушки.
-                Каждое со своим звуком и анимацией.
-              </p>
+              <p className="text-muted-foreground text-lg">Галди с кентами</p>
             </div>
             <div className="pixel-border bg-background p-6 space-y-4">
               <div className="flex items-center gap-3">
