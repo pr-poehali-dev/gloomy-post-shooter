@@ -133,12 +133,12 @@ const Index = () => {
           <div className="grid md:grid-cols-3 gap-8">
             {[
               {
-                name: "Алекс Воронов",
+                name: "Артём Савельев",
                 role: "Главный программист",
                 desc: "10 лет опыта в gamedev, работал над indie проектами",
               },
               {
-                name: "Мария Светлова",
+                name: "Иван Жуков",
                 role: "3D Artist",
                 desc: "Создаёт все модели и текстуры для игры",
               },
