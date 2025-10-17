@@ -135,12 +135,12 @@ const Index = () => {
               {
                 name: "Артём Савельев",
                 role: "Главный программист",
-                desc: "10 лет опыта в gamedev, работал над indie проектами",
+                desc: "Работает с модом на Doom",
               },
               {
                 name: "Иван Жуков",
                 role: "3D Artist",
-                desc: "Создаёт все модели и текстуры для игры",
+                desc: "Сценарист",
               },
             ].map((member, idx) => (
               <Card key={idx} className="pixel-border bg-card p-6 space-y-4">
