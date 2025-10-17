@@ -111,10 +111,7 @@ const Index = () => {
                 <Icon name="Skull" size={32} className="text-secondary" />
                 <h3 className="pixel-text text-xl">ВРАГИ</h3>
               </div>
-              <p className="text-muted-foreground text-lg">
-                20+ типов врагов с уникальным ИИ и поведением.
-                От зомби до боссов-мутантов.
-              </p>
+              <p className="text-muted-foreground text-lg">Пидорасы враги из леса, бей их!</p>
             </div>
           </div>
           <div className="pixel-border overflow-hidden">
